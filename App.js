@@ -12,8 +12,7 @@ export default class App extends React.Component {
       todoInput: '',
       todos: [
         { id: 0, title: 'Wake up with a positive attitude (Aka meditate)', done: false },
-        { id: 1, title: 'Work out for 30 minutes', done: false },
-        { id: 2, title: 'Code for 2 hours minimum', done: false}
+        { id: 1, title: 'Work out for 30 minutes', done: false }
       ]
     }
   }

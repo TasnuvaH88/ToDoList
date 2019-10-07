@@ -1,4 +1,4 @@
-import React from './node_modules/react';
+import React from 'react';
 import { StyleSheet, Text, Button, TouchableOpacity } from 'react-native';
 
 export default class TodoItem extends React.Component {
